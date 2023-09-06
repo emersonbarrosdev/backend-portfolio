@@ -10,10 +10,7 @@
     {
       "src": "/(.*)",
       "methods": ["*"],
-      "dest": "server.js",
-      "headers": {
-        "Access-Control-Allow-Origin": "*"
-      }
+      "dest": "server.js"
     }
   ]
 }
