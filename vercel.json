@@ -9,7 +9,6 @@
   "routes": [
     {
       "src": "/(.*)",
-      "methods": ["*"],
       "dest": "server.js"
     }
   ]
