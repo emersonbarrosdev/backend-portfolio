@@ -13,16 +13,16 @@
       "title": "Quiz Rock’Band ",
       "description": "Um jogo de perguntas e respostas. O jogo consiste em acertar o maior número entre as 50 questões.",
       "technology": "angular | typescript | material",
-      "projectLink": "",
-      "githubLink": ""
+      "projectLink": "https://rock-band-alpha.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/rock-band"
     },
     {
       "image": "assets/img/image3.jpg",
       "title": "Goku Run",
       "description": "Um jogo de coletar Zcoin. Objetivo do jogo é pular os obstáculos e chegar ao final.",
       "technology": "Javascript | Photoshop | CorelDraw",
-      "projectLink": "",
-      "githubLink": ""
+      "projectLink": "https://goku-run.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/gokuRun"
     }
   ]
 }
