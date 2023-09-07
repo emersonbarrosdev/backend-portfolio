@@ -1,10 +1,40 @@
 {
   "project": [
     {
-      "image": "/assets/bookhunter.png",
+      "image": "https://cdn.europosters.eu/image/750/posters/harry-potter-7-part-2-teaser-i11030.jpg",
       "title": "Book Hunter",
       "description": "É uma aplicação que usa a API do Google Books para buscas, utilizando o padrão Observer e a biblioteca RxJS.",
       "technology": "angular | typescript | material | bootstrap"
+    },
+    {
+      "image": "https://i.pinimg.com/originals/a7/a1/6d/a7a16d60d6b42e9ba9335341aef87d3d.jpg",
+      "title": "Quiz Rock’Band ",
+      "description": "Um jogo de perguntas e respostas. O jogo consiste em acertar o maior número entre as 50 questões.",
+      "technology": "angular | typescript | material"
+    },
+    {
+      "image": "https://cdn.awsli.com.br/299/299243/arquivos/capa%20goku.jpeg",
+      "title": "Goku Run",
+      "description": "Um jogo de coletar Zcoin. Objetivo do jogo é pular os obstáculos e chegar ao final.",
+      "technology": "Javascript | Photoshop | CorelDraw"
+    },
+    {
+      "image": "https://cdn.europosters.eu/image/750/posters/harry-potter-7-part-2-teaser-i11030.jpg",
+      "title": "Book Hunter",
+      "description": "É uma aplicação que usa a API do Google Books para buscas, utilizando o padrão Observer e a biblioteca RxJS.",
+      "technology": "angular | typescript | material | bootstrap"
+    },
+    {
+      "image": "https://i.pinimg.com/originals/a7/a1/6d/a7a16d60d6b42e9ba9335341aef87d3d.jpg",
+      "title": "Quiz Rock’Band ",
+      "description": "Um jogo de perguntas e respostas. O jogo consiste em acertar o maior número entre as 50 questões.",
+      "technology": "angular | typescript | material"
+    },
+    {
+      "image": "https://cdn.awsli.com.br/299/299243/arquivos/capa%20goku.jpeg",
+      "title": "Goku Run",
+      "description": "Um jogo de coletar Zcoin. Objetivo do jogo é pular os obstáculos e chegar ao final.",
+      "technology": "Javascript | Photoshop | CorelDraw"
     }
   ]
 }
