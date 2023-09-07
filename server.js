@@ -1,12 +1,18 @@
-const express = require('express');
-const app = express();
+const jsonServer = require('json-server')
+const server = jsonServer.create()
+const router = jsonServer.router('db.json')
+const middlewares = jsonServer.defaults()
 
-const port = process.env.PORT || 8080;
+server.use(middlewares)
+// Add this before server.use(router)
+server.use(jsonServer.rewriter({
+    '/api/*': '/$1',
+    '/blog/:resource/:id/show': '/:resource/:id'
+}))
+server.use(router)
+server.listen(3000, () => {
+    console.log('JSON Server is running port 3000')
+})
 
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/db.json');
-});
-
-app.listen(port, () => {
-  console.log("O servidor está rodando na porta " + port)
-});
+// Export the Server API
+module.exports = server
