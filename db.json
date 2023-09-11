@@ -1,7 +1,7 @@
 {
   "project": [
     {
-      "image": "assets/img/image1.jpg",
+      "image": "assets/img/bookhunter.jpg",
       "title": "Book Hunter",
       "description": "É uma aplicação que usa a API do Google Books para buscas, utilizando o padrão Observer e a biblioteca RxJS.",
       "technology": "angular | typescript | material | bootstrap",
@@ -9,20 +9,76 @@
       "githubLink": "https://github.com/emersonbarrosdev/book-hunter"
     },
     {
-      "image": "assets/img/image2.jpg",
-      "title": "Quiz Rock’Band ",
+      "image": "assets/img/quizrockband.jpg",
+      "title": "Quiz Rock’Band",
       "description": "Um jogo de perguntas e respostas. O jogo consiste em acertar o maior número entre as 50 questões.",
       "technology": "angular | typescript | material",
       "projectLink": "https://rock-band-alpha.vercel.app/",
       "githubLink": "https://github.com/emersonbarrosdev/rock-band"
     },
     {
-      "image": "assets/img/image3.jpg",
+      "image": "assets/img/edjaniabarros.jpg",
+      "title": "Edjania Barros - Corretora",
+      "description": "Página web que reuni para reunir todas as informações de contato assim facilitando centralizando a divulgação em único lugar.",
+      "technology": "angular | typescript | bootstrap",
+      "projectLink": "https://edjania-corretora.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/edjania-corretora"
+    },
+    {
+      "image": "assets/img/heroadventure.jpg",
+      "title": "Hero Adventure",
+      "description": "Um jogo de batalha estilo RPG. O Reino Mítico está sob ameaça dos terríveis orcs liderados por Gorgoroth. Vem testar sua coragem.",
+      "technology": "angular | typescript | bootstrap",
+      "projectLink": "https://hero-adventure.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/hero-adventure"
+    },
+    {
+      "image": "assets/img/spotify.jpg",
+      "title": "Spotify Clone",
+      "description": "Streaming de música e playlists personalizadas em um aplicativo inspirado no Spotify.",
+      "technology": "angular | typescript | bootstrap",
+      "projectLink": "https://spotify-clone-gamma-pink.vercel.app/login",
+      "githubLink": "https://github.com/emersonbarrosdev/spotify-clone"
+    },
+    {
+      "image": "assets/img/gokurun.jpg",
       "title": "Goku Run",
       "description": "Um jogo de coletar Zcoin. Objetivo do jogo é pular os obstáculos e chegar ao final.",
       "technology": "Javascript | Photoshop | CorelDraw",
       "projectLink": "https://goku-run.vercel.app/",
       "githubLink": "https://github.com/emersonbarrosdev/gokuRun"
+    },
+    {
+      "image": "assets/img/imc.jpg",
+      "title": "Calculadora IMC",
+      "description": "Calcule seu Índice de Massa Corporal de maneira rápida e descubra sua condição de saúde em segundos.",
+      "technology": "angular | typescript | bootstrap",
+      "projectLink": "https://bmi-calculator-nu-six.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/bmi-calculator"
+    },
+    {
+      "image": "assets/img/timer.jpg",
+      "title": "Timer",
+      "description": "Defina contagens regressivas e cronômetros com facilidade para gerenciar seu tempo de forma eficaz.",
+      "technology": "javaScript | bootstrap",
+      "projectLink": "https://timer-swart-one.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/timer"
+    },
+    {
+      "image": "assets/img/relogio.jpg",
+      "title": "Relógio Digital",
+      "description": "Um relógio prático e preciso para acompanhar o tempo com simplicidade e estilo.",
+      "technology": "javaScript | bootstrap",
+      "projectLink": "https://timer-swart-one.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/digital-watch"
+    },
+    {
+      "image": "assets/img/dino.jpg",
+      "title": "Dino Game Clone",
+      "description": "Corra, pule e evite obstáculos neste jogo rápido e emocionante baseado no clássico do Google",
+      "technology": "javaScript | bootstrap",
+      "projectLink": "https://dino-game-pi-navy.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/dinoGame"
     }
   ]
 }
