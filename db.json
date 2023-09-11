@@ -33,7 +33,7 @@
       "githubLink": "https://github.com/emersonbarrosdev/hero-adventure"
     },
     {
-      "image": "assets/img/spotify.jpg",
+      "image": "assets/img/spotify.png",
       "title": "Spotify Clone",
       "description": "Streaming de música e playlists personalizadas em um aplicativo inspirado no Spotify.",
       "technology": "angular | typescript | bootstrap",
