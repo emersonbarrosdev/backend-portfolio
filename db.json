@@ -65,14 +65,6 @@
       "githubLink": "https://github.com/emersonbarrosdev/timer"
     },
     {
-      "image": "assets/img/relogio.jpg",
-      "title": "Relógio Digital",
-      "description": "Um relógio prático e preciso para acompanhar o tempo com simplicidade e estilo.",
-      "technology": "javaScript | bootstrap",
-      "projectLink": "https://timer-swart-one.vercel.app/",
-      "githubLink": "https://github.com/emersonbarrosdev/digital-watch"
-    },
-    {
       "image": "assets/img/dino.jpg",
       "title": "Dino Game Clone",
       "description": "Corra, pule e evite obstáculos neste jogo rápido e emocionante baseado no clássico do Google",
