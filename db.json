@@ -9,12 +9,12 @@
       "githubLink": "https://github.com/emersonbarrosdev/book-hunter"
     },
     {
-      "image": "assets/img/quizrockband.jpg",
-      "title": "Quiz Rock’Band",
-      "description": "Um jogo de perguntas e respostas. O jogo consiste em acertar o maior número entre as 50 questões.",
+      "image": "assets/img/mastermusic.jpg",
+      "title": "Master of Music",
+      "description": "O Jogador precisa escolher o nível de dificuldade e acertar qual banda está tocando essa música.",
       "technology": "angular | typescript | material",
-      "projectLink": "https://rock-band-alpha.vercel.app/",
-      "githubLink": "https://github.com/emersonbarrosdev/rock-band"
+      "projectLink": "https://master-music.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/master-music"
     },
     {
       "image": "assets/img/edjaniabarros.jpg",
@@ -31,6 +31,14 @@
       "technology": "angular | typescript | bootstrap",
       "projectLink": "https://hero-adventure.vercel.app/",
       "githubLink": "https://github.com/emersonbarrosdev/hero-adventure"
+    },
+    {
+      "image": "assets/img/quizrockband.jpg",
+      "title": "Quiz Rock’Band",
+      "description": "Um jogo de perguntas e respostas. O jogo consiste em acertar o maior número entre as 50 questões.",
+      "technology": "angular | typescript | material",
+      "projectLink": "https://rock-band-alpha.vercel.app/",
+      "githubLink": "https://github.com/emersonbarrosdev/rock-band"
     },
     {
       "image": "assets/img/spotify.png",
